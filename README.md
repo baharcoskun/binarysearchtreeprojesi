@@ -7,14 +7,14 @@ Proje 3
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-root:4 -->                 4
-                        /     \
-                       3       5
-                      /         \
-                     2           6
-                    /             \
-                   1               7
-                  /                 \
-                 0                   8
-                                      \
+root:4 -->                 4 <p>
+                        /     \ <p>
+                       3       5 <p>
+                      /         \  <p>
+                     2           6  <p>
+                    /             \   <p>
+                   1               7  <p>
+                  /                 \  <p>
+                 0                   8  <p>
+                                      \  <p>
                                        9
